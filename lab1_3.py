@@ -1,8 +1,7 @@
 def validation(n):
 	if 1 < n < 9:
 		return
-	print("Invalid input")
-	exit(1)
+	raise("Invalid input")
 
 
 def main():
