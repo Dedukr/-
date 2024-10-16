@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b41ce71a-e5cb-4d68-931f-e15f5c3bfd9a" name="Changes" comment="Lab1.1 is done">
-      <change afterPath="$PROJECT_DIR$/lab1.2.py" afterDir="false" />
+    <list default="true" id="b41ce71a-e5cb-4d68-931f-e15f5c3bfd9a" name="Changes" comment="Lab1.2 is done">
+      <change afterPath="$PROJECT_DIR$/lab1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
   "keyToString": {
     "Python.lab1.1.executor": "Run",
     "Python.lab1.2.executor": "Run",
+    "Python.lab1.3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -65,11 +67,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729086754393</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab1.2 is done">
+      <option name="closed" value="true" />
+      <created>1729089814099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729089814099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab1.1 is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab1.1 is done" />
+    <MESSAGE value="Lab1.2 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab1.2 is done" />
   </component>
 </project>
