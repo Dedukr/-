@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b41ce71a-e5cb-4d68-931f-e15f5c3bfd9a" name="Changes" comment="Lab2 is done">
-      <change afterPath="$PROJECT_DIR$/lab3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/reqirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b41ce71a-e5cb-4d68-931f-e15f5c3bfd9a" name="Changes" comment="README.md explains how to use TEXT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +138,39 @@
       <option name="project" value="LOCAL" />
       <updated>1729097987750</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Basic structure">
+      <option name="closed" value="true" />
+      <created>1729245229604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729245229604</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Forgot to ignore .env :)">
+      <option name="closed" value="true" />
+      <created>1729245314940</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729245314940</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Forgot to delete .env :)">
+      <option name="closed" value="true" />
+      <created>1729245387931</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729245387931</updated>
+    </task>
+    <task id="LOCAL-00008" summary="README.md explains how to use TEXT">
+      <option name="closed" value="true" />
+      <created>1729245535768</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729245535768</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +178,10 @@
     <MESSAGE value="Lab1.2 is done" />
     <MESSAGE value="Lab1.3 is done" />
     <MESSAGE value="Lab2 is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2 is done" />
+    <MESSAGE value="Basic structure" />
+    <MESSAGE value="Forgot to ignore .env :)" />
+    <MESSAGE value="Forgot to delete .env :)" />
+    <MESSAGE value="README.md explains how to use TEXT" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md explains how to use TEXT" />
   </component>
 </project>
