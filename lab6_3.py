@@ -1,27 +1,38 @@
 def main():
+	def count_vowels_and_consonants(text):
+		# Множина голосних
+		vowels = {'a', 'e', 'i', 'o', 'u', 'y'}
+		consonants = set("abcdefghijklmnopqrstuvwxyz") - vowels
 
+		# Лічильники
+		vowel_count = 0
+		consonant_count = 0
 
-	def find_subsequence(sequence, subsequence):
+		# Перетворення тексту в нижній регістр
+		text = text.lower()
 
-		seq_len = len(sequence)
-		sub_len = len(subsequence)
+		# Перебір кожного символу в тексті
+		for char in text:
+			if char in vowels:
+				vowel_count += 1
+			elif char in consonants:
+				consonant_count += 1
 
-		# Перевіряємо можливі місця, де може бути підпослідовність
-		for i in range(seq_len - sub_len + 1):
-			if sequence[i:i + sub_len] == subsequence:
-				return i  # Повертаємо індекс початку
+		return vowel_count, consonant_count
 
-		return -1  # Якщо не знайдено
+	# Введення тексту
+	text = input("Введіть текст з цифр і літер латинського алфавіту: ")
 
-	# Приклад використання
-	sequence = list(map(int, input('Enter a list:\n').split()))
-	subsequence = [3, 4, 5]
+	# Підрахунок голосних і приголосних
+	vowel_count, consonant_count = count_vowels_and_consonants(text)
 
-	index = find_subsequence(sequence, subsequence)
-	if index != -1:
-		print(f"Підпослідовність знайдено за індексом {index}.")
+	# Виведення результату
+	if vowel_count > consonant_count:
+		print(f"У тексті більше голосних ({vowel_count}), ніж приголосних ({consonant_count}).")
+	elif vowel_count < consonant_count:
+		print(f"У тексті більше приголосних ({consonant_count}), ніж голосних ({vowel_count}).")
 	else:
-		print("Підпослідовність не знайдено.")
+		print(f"Кількість голосних і приголосних однакова ({vowel_count}).")
 
 if __name__=="__main__":
 	main()

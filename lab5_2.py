@@ -1,16 +1,13 @@
+import numpy as np
 def main():
-	n = int(input("Enter the number of elements\n"))
-	arr=[]
-	for i in range(n):
-		arr.append(int(input(f"Enter {i+1} element\n")))
+	n = 7
+	arr=np.zeros((n,n))
+	print(arr)
 
-	result=0
-	counter=0
-	for i in arr:
-		if i<0:
-			result+=i
-			counter+=1
-	print(f"Result - {result/counter}")
+	for i in range(n):
+		for j in range(n-1,0,-1):
+			arr[i][j]=n
+	print(arr)
 
 if __name__ == '__main__':
 	main()
