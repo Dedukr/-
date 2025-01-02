@@ -1,7 +1,7 @@
 def validation(n):
 	if 1 < n < 9:
 		return
-	raise("Invalid input")
+	raise ValueError("Invalid input")
 
 
 def main():
@@ -12,7 +12,6 @@ def main():
 		for j in range(1, i + 1):
 			print(j, end="")
 		print(end="\n")
-
 
 
 if __name__ == '__main__':

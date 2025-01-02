@@ -1,16 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41ce71a-e5cb-4d68-931f-e15f5c3bfd9a" name="Changes" comment="Ruslan Konoz done">
-      <change afterPath="$PROJECT_DIR$/TF4_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TF4_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Individual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/Report_.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/Report_1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/Report_2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/Report_3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/Report_4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/~$port_1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/~$port_2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/~$port_3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/~$port_4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/lab10_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/P_Popular_Indicators/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/P_Popular_Indicators/Metadata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/DataBase/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/DataBase/Metadata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/DataBase2/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/DataBase2/Metadata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/lab14_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab16/austen-sense.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab16/input_text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab16/lab16_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab16/lab16_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab16/stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9_1/lab9_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TF4_1" beforeDir="false" afterPath="$PROJECT_DIR$/lab9_1/TF4_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TF4_2" beforeDir="false" afterPath="$PROJECT_DIR$/lab9_1/TF4_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_2_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_2_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab6_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab7_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/lab11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +75,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -45,10 +92,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Individual.executor": "Run",
     "Python.la6_1.executor": "Run",
     "Python.lab1.1.executor": "Run",
     "Python.lab1.2.executor": "Run",
     "Python.lab1.3.executor": "Run",
+    "Python.lab11.executor": "Run",
+    "Python.lab12.executor": "Run",
+    "Python.lab14.executor": "Run",
+    "Python.lab14_1.executor": "Run",
+    "Python.lab14_2.executor": "Run",
+    "Python.lab14_2_1.executor": "Run",
+    "Python.lab14_2_2.executor": "Run",
+    "Python.lab14_3.executor": "Run",
+    "Python.lab16_1.executor": "Run",
+    "Python.lab16_2.executor": "Run",
+    "Python.lab1_1.executor": "Run",
+    "Python.lab1_2.executor": "Run",
+    "Python.lab1_3.executor": "Run",
     "Python.lab2.1.executor": "Run",
     "Python.lab2_1.executor": "Run",
     "Python.lab2_2.executor": "Run",
@@ -62,23 +123,122 @@
     "Python.lab6_3.executor": "Run",
     "Python.lab7_1.executor": "Run",
     "Python.lab8_1.executor": "Run",
+    "Python.lab9_1.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dedmac/Library/Mobile Documents/com~apple~CloudDocs/Study/СумДУ/Python"
+    "last_opened_file_path": "/Users/dedmac/Library/Mobile Documents/com~apple~CloudDocs/Study/СумДУ/Python/lab14",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab14" />
+      <recent name="$PROJECT_DIR$/lab14/DataBase2" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lab11" />
       <recent name="$PROJECT_DIR$/lab8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lab8" />
+      <recent name="$PROJECT_DIR$/lab16" />
+      <recent name="$PROJECT_DIR$/lab14" />
+      <recent name="$PROJECT_DIR$/lab14/DataBase2" />
+      <recent name="$PROJECT_DIR$/lab12" />
+      <recent name="$PROJECT_DIR$/lab10" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="lab14_2_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab14/lab14_2_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab14_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab14/lab14_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab16_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab16/lab16_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab16_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab16/lab16_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lab2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -103,6 +263,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab16_2" />
+        <item itemvalue="Python.lab16_1" />
+        <item itemvalue="Python.lab14_3" />
+        <item itemvalue="Python.lab14_2_2" />
         <item itemvalue="Python.lab2_1" />
       </list>
     </recent_temporary>

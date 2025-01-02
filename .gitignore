@@ -2,6 +2,7 @@
 # Byte-compiled / optimized / DLL files
 
 .DS_Store
+Reports
 
 __pycache__/
 *.py[cod]

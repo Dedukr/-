@@ -1,6 +1,4 @@
 def main():
-
-
 	def find_subsequence(sequence, subsequence):
 
 		seq_len = len(sequence)
@@ -23,5 +21,6 @@ def main():
 	else:
 		print("Підпослідовність не знайдено.")
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
 	main()

@@ -1,6 +1,6 @@
 def validation(num):
 	if num<=0:
-		raise("Should be positive numbers")
+		raise ValueError("Should be positive numbers")
 
 def main():
 	print("For this task you should enter natural numbers (more than 0)")

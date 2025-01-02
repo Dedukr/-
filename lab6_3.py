@@ -34,5 +34,6 @@ def main():
 	else:
 		print(f"Кількість голосних і приголосних однакова ({vowel_count}).")
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
 	main()

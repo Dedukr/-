@@ -62,7 +62,6 @@ def main():
 			case 6:
 				break
 			case _:
-				print("Enter the correct number")
 				continue
 
 if __name__ == "__main__":
