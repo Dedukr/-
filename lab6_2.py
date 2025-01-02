@@ -4,14 +4,12 @@ def main():
 		seq_len = len(sequence)
 		sub_len = len(subsequence)
 
-		# Перевіряємо можливі місця, де може бути підпослідовність
 		for i in range(seq_len - sub_len + 1):
 			if sequence[i:i + sub_len] == subsequence:
-				return i  # Повертаємо індекс початку
+				return i
 
-		return -1  # Якщо не знайдено
+		return -1
 
-	# Приклад використання
 	sequence = list(map(int, input('Enter a list:\n').split()))
 	subsequence = [3, 4, 5]
 

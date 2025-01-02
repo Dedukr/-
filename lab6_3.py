@@ -1,17 +1,14 @@
 def main():
 	def count_vowels_and_consonants(text):
-		# Множина голосних
+		alphabet = set("abcdefghijklmnopqrstuvwxyz")
 		vowels = {'a', 'e', 'i', 'o', 'u', 'y'}
-		consonants = set("abcdefghijklmnopqrstuvwxyz") - vowels
+		consonants = alphabet - vowels
 
-		# Лічильники
 		vowel_count = 0
 		consonant_count = 0
 
-		# Перетворення тексту в нижній регістр
 		text = text.lower()
 
-		# Перебір кожного символу в тексті
 		for char in text:
 			if char in vowels:
 				vowel_count += 1
@@ -20,13 +17,10 @@ def main():
 
 		return vowel_count, consonant_count
 
-	# Введення тексту
-	text = input("Введіть текст з цифр і літер латинського алфавіту: ")
+	text = input("Введіть текст з цифр і літер латинського алфавіту:\n")
 
-	# Підрахунок голосних і приголосних
 	vowel_count, consonant_count = count_vowels_and_consonants(text)
 
-	# Виведення результату
 	if vowel_count > consonant_count:
 		print(f"У тексті більше голосних ({vowel_count}), ніж приголосних ({consonant_count}).")
 	elif vowel_count < consonant_count:

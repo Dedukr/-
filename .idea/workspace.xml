@@ -8,53 +8,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41ce71a-e5cb-4d68-931f-e15f5c3bfd9a" name="Changes" comment="Ruslan Konoz done">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Individual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/Report_.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/Report_1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/Report_2.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/Report_3.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/Report_4.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/~$port_1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/~$port_2.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/~$port_3.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/~$port_4.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/lab10_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/P_Popular_Indicators/Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/P_Popular_Indicators/Metadata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab12/file.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab12/lab12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/DataBase/Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/DataBase/Metadata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/DataBase2/Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/DataBase2/Metadata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/lab12.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/lab14_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/lab14_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/lab14_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/lab14_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab14/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab16/austen-sense.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab16/input_text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab16/lab16_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab16/lab16_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab16/stopwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9_1/lab9_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TF4_1" beforeDir="false" afterPath="$PROJECT_DIR$/lab9_1/TF4_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TF4_2" beforeDir="false" afterPath="$PROJECT_DIR$/lab9_1/TF4_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/Report_.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/Report_1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/Report_2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_2.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/Report_3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/Report_4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_4.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/~$port_1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/~$port_2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/~$port_3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/~$port_4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5_2_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_2_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_2_test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lab6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab6_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab6_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab7_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/lab11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +88,7 @@
     "Python.lab5_1.executor": "Run",
     "Python.lab5_2.executor": "Run",
     "Python.lab5_2_test.executor": "Run",
+    "Python.lab6_1.executor": "Run",
     "Python.lab6_2.executor": "Run",
     "Python.lab6_3.executor": "Run",
     "Python.lab7_1.executor": "Run",
