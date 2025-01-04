@@ -25,15 +25,16 @@ def main():
 
 	years = analysed.get("Years")
 
-	country = input("What country you want to look at?\n")
-	data = analysed.get(country.title(), False)
-
-	while not data:
-		country = input("Not valid country. Check the spelling\nWhat country you want to look at?\n")
+	while True:
+		country = input("What country you want to look at?\n")
 		data = analysed.get(country.title(), False)
-
-	while ".." in data:
-		print("Unfortunately, we dont have records about this country.\n Try other:\n")
+		if not data:
+			print("Not valid country. Check the spelling")
+			continue
+		if None in data:
+			print("Unfortunately, we dont have records about this country. Try other")
+			continue
+		break
 
 	plt.figure(figsize=(12, 8))
 	plt.title("Self-employed to total employment, %", fontsize=15)

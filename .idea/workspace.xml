@@ -8,22 +8,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41ce71a-e5cb-4d68-931f-e15f5c3bfd9a" name="Changes" comment="Ruslan Konoz done">
+      <change afterPath="$PROJECT_DIR$/Individual/Individual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/lab1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/lab1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/lab1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/Filtered_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13/forum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13/forum.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13/forum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/bike_data_2018.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/lab15_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab15/lab15_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab16/lab16_2_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab16/output_text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/lab2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/lab2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/lab3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/lab3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/lab3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/lab5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/lab5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/lab6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/lab6_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/lab6_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/lab7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Report_.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Report_1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Report_2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_2.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Report_3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Individual.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/Report_4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Report_4.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/~$port_1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/~$port_2.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/~$port_3.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/~$port_4.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5_2_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab6_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab6_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab7_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab11/lab11.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11/lab11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/lab12.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/lab12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab14/lab14_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab14/lab14_2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab14/lab14_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab14/lab14_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab16/input_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab16/input_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab16/lab16_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab16/lab16_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab16/lab16_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab16/lab16_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab6_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7_1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +101,7 @@
     "Python.lab1.1.executor": "Run",
     "Python.lab1.2.executor": "Run",
     "Python.lab1.3.executor": "Run",
+    "Python.lab10.executor": "Run",
     "Python.lab11.executor": "Run",
     "Python.lab12.executor": "Run",
     "Python.lab14.executor": "Run",
@@ -74,8 +110,11 @@
     "Python.lab14_2_1.executor": "Run",
     "Python.lab14_2_2.executor": "Run",
     "Python.lab14_3.executor": "Run",
+    "Python.lab15_1.executor": "Run",
+    "Python.lab15_2.executor": "Run",
     "Python.lab16_1.executor": "Run",
     "Python.lab16_2.executor": "Run",
+    "Python.lab16_2_test.executor": "Run",
     "Python.lab1_1.executor": "Run",
     "Python.lab1_2.executor": "Run",
     "Python.lab1_3.executor": "Run",
@@ -95,29 +134,30 @@
     "Python.lab8_1.executor": "Run",
     "Python.lab9_1.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dedmac/Library/Mobile Documents/com~apple~CloudDocs/Study/СумДУ/Python/lab14",
+    "last_opened_file_path": "/Users/dedmac/Library/Mobile Documents/com~apple~CloudDocs/Study/СумДУ/Python/lab15",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab15" />
+      <recent name="$PROJECT_DIR$/lab16" />
+      <recent name="$PROJECT_DIR$/lab10" />
       <recent name="$PROJECT_DIR$/lab14" />
       <recent name="$PROJECT_DIR$/lab14/DataBase2" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/lab11" />
-      <recent name="$PROJECT_DIR$/lab8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab15" />
       <recent name="$PROJECT_DIR$/lab16" />
       <recent name="$PROJECT_DIR$/lab14" />
       <recent name="$PROJECT_DIR$/lab14/DataBase2" />
       <recent name="$PROJECT_DIR$/lab12" />
-      <recent name="$PROJECT_DIR$/lab10" />
     </key>
   </component>
   <component name="RunManager">
@@ -361,6 +401,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/lab8" />
+    </ignored-roots>
     <MESSAGE value="Lab1.1 is done" />
     <MESSAGE value="Lab1.2 is done" />
     <MESSAGE value="Lab1.3 is done" />

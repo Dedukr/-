@@ -2,7 +2,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer, PorterStemmer
-import string
+import string, textwrap
 
 # Завантаження необхідних даних
 nltk.download("punkt")
@@ -13,9 +13,9 @@ nltk.download("wordnet")
 # Створення файлу з текстом
 with open("input_text.txt", "w", encoding="utf-8") as file:
     file.write("""
-    Natural language processing (NLP) is a subfield of artificial intelligence that focuses 
-    on the interaction between computers and humans using natural language. 
-    The ultimate goal of NLP is to enable computers to understand, interpret, and generate human languages.
+Natural language processing (NLP) is a subfield of artificial intelligence that focuses 
+on the interaction between computers and humans using natural language. 
+The ultimate goal of NLP is to enable computers to understand, interpret, and generate human languages.
     """)
 # Читання тексту з файлу
 with open("input_text.txt", "r", encoding="utf-8") as file:
@@ -44,6 +44,6 @@ processed_text = " ".join(processed_tokens)
 
 # Запис у новий файл
 with open("output_text.txt", "w", encoding="utf-8") as file:
-    file.write(processed_text)
+    file.write(textwrap.fill(processed_text, 100))
 
 print("Оброблений текст збережено у файлі 'output_text.txt'")

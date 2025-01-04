@@ -2,6 +2,16 @@ import matplotlib.pyplot as plt
 from collections import Counter
 
 
+def extract_stopwords(text):
+	filename = "stopwords.txt"
+	stopwords_file = open(filename, "r",
+	                      encoding="utf-8")  # https://github.com/igorbrigadir/stopwords/blob/master/en/terrier.txt
+	stopwords = [word.strip() for word in stopwords_file]
+	clean_text = [word.strip("\"'()“\n").rstrip("\",.'()“\n") for word in text if not word in stopwords]
+	' '.join(clean_text)
+	return clean_text
+
+
 def main():
 	def Open(name, mode):
 		try:
@@ -36,28 +46,15 @@ def main():
 		plt.show()
 		return most_used
 
-	def extract_stopwords(text):
-		# print(text)
-		filename = "stopwords.txt"
-		stopwords_file = open(filename, "r",
-		                      encoding="utf-8")  # https://github.com/igorbrigadir/stopwords/blob/master/en/terrier.txt
-		stopwords = [word.strip() for word in stopwords_file]
-		print('Stopwords: ', stopwords)
-		clean_text = [word.strip("\"'()“\n").rstrip("\",.'()“\n") for word in text if not word in stopwords]
-		' '.join(clean_text)
-		return clean_text
-
 	mypath = "austen-sense.txt"
 	file = Open(mypath, "r")
 	counter = count_words(Read(file))
 	print("Word counter:", counter)
 	most_used = most_used_words(Read(file))
-	print("Most used words:\n", most_used)
 
 	clean_text = extract_stopwords(Read(file))
 
 	most_used_cleaned = most_used_words(clean_text)
-	print("Most used words in cleaned text without stopwords and punctuation:\n", most_used_cleaned)
 
 
 if __name__ == '__main__':

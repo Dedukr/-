@@ -89,7 +89,7 @@ def main():
 
 	while True:
 		ans = int(input(
-			"\nWhat do you want to do?\n1. Show all\n2. Add new country\n3. Remove a country record\n4. Population density\n5. Show sorted list of countries\n6. Check if Africa or Asia\n7. Exit\n(Enter the number)\n"))
+			"\nWhat do you want to do?\n1. Show all\n2. Add new country\n3. Remove a country record\n4. Search by population density\n5. Show sorted list of countries\n6. Check if Africa or Asia\n7. Exit\n(Enter the number)\n"))
 		match ans:
 			case 1:
 				show(filename)

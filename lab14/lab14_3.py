@@ -17,9 +17,6 @@ def main():
 	areas = [x[0] for x in data.values()]
 	population = [x[1] for x in data.values()]
 	explodes = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-	print(countries)
-	print(areas)
-	print(population)
 
 	fig, grid = plt.subplots(1, 2, figsize=(12, 8))
 	grid[0].pie(areas, labels=countries, autopct="%.2f%%", explode=explodes, pctdistance=0.9)
