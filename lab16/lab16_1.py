@@ -7,9 +7,14 @@ def extract_stopwords(text):
 	stopwords_file = open(filename, "r",
 	                      encoding="utf-8")  # https://github.com/igorbrigadir/stopwords/blob/master/en/terrier.txt
 	stopwords = [word.strip() for word in stopwords_file]
-	clean_text = [word.strip("\"'()“\n").rstrip("\",.'()“\n") for word in text if not word in stopwords]
+	clean_text = [word.lower().strip("\"'()“\n").rstrip("\",.'()“\n") for word in text if not word.lower() in stopwords]
 	' '.join(clean_text)
 	return clean_text
+
+
+def extract_articles(text):
+	articles=["a","the"]
+	clean_text=' '.join([])
 
 
 def main():

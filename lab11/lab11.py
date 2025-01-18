@@ -40,7 +40,7 @@ def main():
 
 	min_value = float(input("\nEnter the value which you want to use as minimal GDP per capita (current US$):\n"))
 	answer=search_more(Open(path, "r"), min_value)
-	writef(Open("Filtered_data", "w"), answer)
+	writef(Open("Filtered_data.csv", "w"), answer)
 
 
 

@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import calendar as cal
 
 
 def main():
@@ -20,7 +21,7 @@ def main():
 
 	# Визначення місяця з найбільшою активністю
 	most_popular_month = monthly_usage.sum(axis=1).idxmax()
-	print(f"\nНайбільш популярний місяць: {most_popular_month}")
+	print(f"\nНайбільш популярний місяць: {cal.month_name[most_popular_month]}")
 
 	# Візуалізація використання за місяцями
 	plt.figure(figsize=(10, 6))
